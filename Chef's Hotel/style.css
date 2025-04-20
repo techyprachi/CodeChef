@@ -1,0 +1,105 @@
+*{
+    padding: 0px;
+    margin: 0%;
+    font-size: large;
+    background-color: #071A28;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.landingPage{
+    background-image: url("bgimg.jpg");
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.heading{
+    background-color: transparent;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    padding-bottom: 150px;
+    font-size: 80px;
+    font-family: Times;
+}
+
+.quote{
+    text-align: right;
+    font-size: 60px;
+    font-family:cursive;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px; 
+    color: white;
+    background-color: transparent;
+}
+
+.headingPara{
+    color: white;
+    background-color:transparent;
+    padding-top: 30px;
+    text-align: right;
+    margin-left: 30%;
+    padding-right: 20px;
+}
+
+.types{
+    padding-top: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+
+.feature{
+   
+    
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 60px;
+    width: 70%;
+    
+}
+.imgtype{
+    text-align: center;
+}
+
+th, td {
+    width: 150px;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #f70303;
+}
+
+
+th{
+    background-color: #f70303;
+}
+
+
+ul{
+    padding-left: 30px;
+    background-color: transparent;
+}
+
+
+
+.booknow{
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+/* Update the code below this comment */
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #4F2D18;
+}
+
+#footpara{
+    color: white;
+    background-color: transparent;
+    padding-right: 50px;
+}
